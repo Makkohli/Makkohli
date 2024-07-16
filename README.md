@@ -4,27 +4,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Manish+Kohli!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+**`Software Developer | Competitive Programmer | ML Enthusiast`**
 
-<br/>
+- 🎓 **Btech Final Year Student** | **CSE (IOT)** at **NSUT, Delhi**
+- 🌱 **Exploring**: Competitive Programming, ML, AI
+- 💻 **Completed**: MERN Stack Web Development
+- 🎵 **Interests**: Singing, Coding, Football
+- 💼 **Skills**: React, Web3, Blockchain, Machine Learning
 
-<div align="center">
- 
- </div>
- 
-<div align="center"> 
-  <a href="manishkohli030@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="www.linkedin.com/in/manish-kohli-3aa4822b9" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-<!--   <a href="https://github.com/Makkohli" target="_blank">
-<!--      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options  
-  </a> -->
-</div>
-
- <hr/>
+---
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -34,34 +22,29 @@
 </div>
 
 <br/>
-<hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+## 🔭 Projects
+
+### Major Projects
+- **[Omnigen--AI-Content-Generator:](https://github.com/Makkohli/Omnigen---AI-Content-Generator)** Ultimate AI-powered content generator built with Next.js, React, Tailwind CSS, Drizzle ORM, TypeScript, Gemini API, Clerk, and Razorpay for seamless user experiences and secure transactions.
+- **[Stock Price Prediction Project:](https://github.com/Makkohli/Stock_Price_Predictor_App)** Streamlit application designed for stock price prediction and analysis with features for cryptocurrency prices, news, and fundamental analysis to enhance the user experience.
+- **[NewsApp--your-daily-news-app :](https://github.com/Makkohli/NewsApp---your-daily-news-app)** NewsApp is a React.js application that fetches daily news using the NewsAPI. It provides a convenient way to browse top headlines across various categories such as business, entertainment, health, science, sports, technology, and more.
+
+### Minor Projects
+- Various projects using **Next.js**, **MERN**, **ML**.
+---
+
+## 🌟 Achievements
+- **Ranked in the top 15 Teams among a Total of 1500 Teams** in **HackWithIndia** Hackathon.
+- **Cleared the SIH Internal hackathon Twice**. Ranked among the **top 20%** with selection in **30** out of **150 teams**.
+
+---
+<div align="center"> 
+  <a href="manishkohli030@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="www.linkedin.com/in/manish-kohli-3aa4822b9" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
 </div>
 
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-stats-Makkohli.vercel.app/api?username=Makkohli&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-Makkohli.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<br/><br/>
-
-<hr/>
-
-<br/>
-
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>
