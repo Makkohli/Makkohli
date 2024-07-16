@@ -39,12 +39,11 @@
 - **Cleared the SIH Internal hackathon Twice**. Ranked among the **top 20%** with selection in **30** out of **150 teams**.
 
 ---
-<div align="center"> 
-  <a href="manishkohli030@gmail.com">
+<a href="mailto:manishkohli030@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="www.linkedin.com/in/manish-kohli-3aa4822b9" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-</div>
+</a>
+<a href="https://www.linkedin.com/in/manish-kohli-3aa4822b9" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 
